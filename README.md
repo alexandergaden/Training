@@ -1,2 +1,5 @@
 # Training
-Training v1
+First version of training Repo
+* Test 1
+* Test 2
+* Test 3
